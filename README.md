@@ -3,15 +3,9 @@
 **Game Developer**  
 Gameplay Programming · C# · Game Design
 
-I build gameplay systems and player-facing interfaces for 2D and 3D games on PC and mobile. My work covers gameplay AI, progression, save/load systems and UI/UX implementation, primarily with Unity and C#.
-
-Bachelor's degree in Digital Games — PUC-SP.
-
-[Portfolio](https://instinctive-pearl-c2a.notion.site/Matheus-Ferreira-dos-Santos-3b0d276542b94c8f96bfc278a528f990?pvs=4) · [LinkedIn](https://www.linkedin.com/in/matheus-ferreira-dos-santos-787433222/) · [Play my games](https://matara0.itch.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=notion&logoColor=white)](https://instinctive-pearl-c2a.notion.site/Matheus-Ferreira-dos-Santos-3b0d276542b94c8f96bfc278a528f990?pvs=4)
 
 ![Reimu dodging green contribution squares in a Touhou-inspired danmaku animation.](./assets/reimu-contribution-danmaku.gif)
-
-*A little Touhou-inspired dodging between commits.*
 
 ## Selected work
 
@@ -24,8 +18,6 @@ Bachelor's degree in Digital Games — PUC-SP.
 ## Tools & focus
 
 **Unity · C# · Git/GitHub · DOTween · Localization · Addressables**
-
-Gameplay systems, game AI, progression, responsive interfaces and performance optimization.
 
 ## Let's connect
 
